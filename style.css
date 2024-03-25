@@ -1,0 +1,149 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.back{
+    
+    border-top: 3px solid white;
+    background-image: url("back.jpg");
+    background-color: rgba(0, 0, 0, 0.753);
+    
+    
+    
+}
+
+
+form{
+    padding: 0;
+    margin: 0;
+    
+}
+.back table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.head table{
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    margin-left: 230px;
+    padding: 15px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    
+    
+}
+.button{
+    text-align: center;
+    padding-bottom: 20px;
+}
+table td{
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+input[type=text],input[type=tel],input[type=email],input[type=date],textarea{
+    padding: 7px 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.639);
+
+}
+table{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+input[type=text]:hover,input[type=tel]:hover,input[type=email]:hover,input[type=date]:hover,textarea:hover{
+   background-color: rgba(230, 229, 229, 0.639); 
+   
+}
+fieldset{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 150px;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #4c6067;
+    
+}
+input[type=submit],input[type=reset]{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(195, 195, 241);
+}
+h1{
+    text-align: center;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 47px;
+    
+    
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+input[type=submit]:hover,input[type=reset]:hover{
+    background-color: rgb(66, 141, 164);
+    color: white;
+}
+input[type=submit]{
+    margin-right: 100px;
+}
+footer{
+    bottom: 0;
+    background-color: rgb(60, 148, 119);
+    
+    padding: 20px 0;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 150px;
+    border-top: 3px solid white;
+}
+::placeholder{
+    color: black;
+    opacity: 0.6;
+}
+.head{
+    background-color: rgb(66, 165, 132);
+}
+footer img{
+    width: 35px;
+    height: 35px;
+    float: right;
+    padding: 5px;
+    padding-right: 10px;
+}
+footer h4{
+    text-align: center;
+    padding: 5px;
+    color: black;
+    font-weight: 5px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+footer p{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.806);
+    bottom: 0;
+    padding: 10px;
+    margin-top: 15px;
+
+}
+
+
